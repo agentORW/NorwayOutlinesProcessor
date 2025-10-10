@@ -1,0 +1,10 @@
+name: NOP_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.14
+  - conda-forge::geopandas=1.1.1
+  - conda-forge::jupyterlab=4.4.9
+  - pip:
+      - terrapyconvert
