@@ -3,7 +3,7 @@ Processes the outline data for buildings and roads to be populated in Minecraft
 
 ## How to run
 1. Download [Anaconda](https://www.anaconda.com/) (restart machine if needed)
-2. Open terminal in some directory.
+2. Open Anaconda terminal and cd into some directory.
 3. Clone repository with `git clone https://github.com/agentORW/NorwayOutlinesProcessor.git`
 4. Run `cd NorwayOutlinesProcessor`
 5. Run `conda env create -f environment.yml`
